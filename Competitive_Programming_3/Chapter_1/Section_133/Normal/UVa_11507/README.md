@@ -24,8 +24,6 @@ For example, if *L* = 3 and Bender bends the wire at (2*,* 0*,* 0) on
 the +y axis direction, and at (1*,* 0*,* 0) on the -y axis direction,
 the result would be:
 
-![](vertopal_c8cbf2e99a294cbda717a0e00aece52e/media/image1.png)
-
 Given a sequence of bends, you must determine what direction is pointed
 by the last segment of the wire (+x in the example). You can suppose
 that the wire can intercept itself, after all it is the future!
