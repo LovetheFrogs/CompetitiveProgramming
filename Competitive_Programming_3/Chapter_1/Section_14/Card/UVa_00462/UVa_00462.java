@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class Main {
+public class UVa_00462 {
     public static void main(String[] args) throws IOException {
         Map<Character, Integer> ms = new HashMap<>();
         ms.put('S', 0);

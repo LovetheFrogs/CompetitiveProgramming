@@ -3,7 +3,7 @@ package Competitive_Programming_3.Chapter_1.Section_133.Easy.UVa_10114;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Main {
+public class UVa_10114 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int l = sc.nextInt();

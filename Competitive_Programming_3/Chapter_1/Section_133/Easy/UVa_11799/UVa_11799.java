@@ -2,7 +2,7 @@ package Competitive_Programming_3.Chapter_1.Section_133.Easy.UVa_11799;
 
 import java.util.Scanner;
 
-public class Main {
+public class UVa_11799 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
