@@ -15,7 +15,9 @@ As for example:
 **5k1r/2q3p1/p3p2p/1B3p1Q/n4P2/6P1/bbP2N1P/1K1RR3**
 is the **FEN** notation description of the following chessboard:
 
-pic here
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/102818341/233203420-d44e86ad-0013-4e1f-897c-ab9703a8d62c.png">
+</p>
 
 The chessboard of the beginning of a chess game is described in **FEN** as:
 **rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR**
