@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_14.Chess.UVa_10284;
+package Books.Competitive_Programming_3.Chapter_1.Section_14.Chess.UVa_10284;
 
 import java.util.Scanner;
 

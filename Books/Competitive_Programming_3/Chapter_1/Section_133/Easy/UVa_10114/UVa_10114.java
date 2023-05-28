@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_133.Easy.UVa_10114;
+package Books.Competitive_Programming_3.Chapter_1.Section_133.Easy.UVa_10114;
 
 import java.util.HashMap;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_14.Games_easy.UVa_10189;
+package Books.Competitive_Programming_3.Chapter_1.Section_14.Games_easy.UVa_10189;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_14.Card.Uva_12247;
+package Books.Competitive_Programming_3.Chapter_1.Section_14.Card.Uva_12247;
 
 import java.util.Arrays;
 import java.util.Scanner;

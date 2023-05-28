@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_133.SuperEasy.UVa_11727;
+package Books.Competitive_Programming_3.Chapter_1.Section_133.SuperEasy.UVa_11727;
 
 import java.util.ArrayList;
 import java.util.Collections;

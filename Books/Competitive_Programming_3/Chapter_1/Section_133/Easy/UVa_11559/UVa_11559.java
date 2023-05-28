@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_133.Easy.UVa_11559;
+package Books.Competitive_Programming_3.Chapter_1.Section_133.Easy.UVa_11559;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_14.Games_easy.UVa_11459;
+package Books.Competitive_Programming_3.Chapter_1.Section_14.Games_easy.UVa_11459;
 
 import java.io.*;
 

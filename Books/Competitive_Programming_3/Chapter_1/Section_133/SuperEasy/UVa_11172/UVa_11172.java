@@ -1,4 +1,4 @@
-package Competitive_Programming_3.Chapter_1.Section_133.SuperEasy.UVa_11172;
+package Books.Competitive_Programming_3.Chapter_1.Section_133.SuperEasy.UVa_11172;
 
 import java.util.Scanner;
 
