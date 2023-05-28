@@ -2,7 +2,7 @@
 
 The impact factor of a scientific journal is a measure reflecting the average number of citations to articles published in science journals. For this task we are using a simplified formula for calculating the impact factor:  
 
-$`Total count of citacions received by articles published in the journal/Total number of articles published`$
+$`Total Count Of Citacions Received By Articles Published In The Journal/Total Number Of Articles Published`$
 
 Rounding is always performed upwards. For example the impact factor of the “Journal for ore research and time wasting” that published 38 articles cited 894 times is 894/38 = 23.53 rounding up to 24.  
 
