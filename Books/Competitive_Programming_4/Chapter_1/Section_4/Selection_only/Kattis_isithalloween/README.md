@@ -4,7 +4,7 @@ HiQ recently got an assignment from a client to create a clone of the immensely 
 
 Since HiQ is such a popular firm, they don’t have time to complete this assignment right now. Their frontend engineers have already programmed the frontend of the website that prints out yup or nope, but not the backend microservice that determines whether it is indeed Halloween or not. Do you have time to help them?
 
-The behaviour of the server should be as follows: it gets as input the current date in the format FEB 9, where FEB is the month given in three letters (JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC) and 9 is the day of the month starting at 1. It should then determine if this date represents October 31 or December 25 (since $`31_8`$ = $`25_10`$).
+The behaviour of the server should be as follows: it gets as input the current date in the format FEB 9, where FEB is the month given in three letters (JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC) and 9 is the day of the month starting at 1. It should then determine if this date represents October 31 or December 25 (since $`31_8`$ = $`25_{10}`$).
 
 ## Input
 
