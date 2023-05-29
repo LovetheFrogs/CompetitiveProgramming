@@ -1,4 +1,4 @@
-package Books.Competitive_Programming_4.Chapter_1.Section_14.Repetition_only.Kattis.Kattis_timeloop;
+package Books.Competitive_Programming_4.Chapter_1.Section_4.Repetition_only.Kattis.Kattis_timeloop;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Books.Competitive_Programming_4.Chapter_1.Section_14.IO_sequences.UVa_Judge.UVa_11805;
+package Books.Competitive_Programming_4.Chapter_1.Section_4.IO_sequences.UVa_Judge.UVa_11805;
 
 import java.io.BufferedReader;
 import java.io.IOException;

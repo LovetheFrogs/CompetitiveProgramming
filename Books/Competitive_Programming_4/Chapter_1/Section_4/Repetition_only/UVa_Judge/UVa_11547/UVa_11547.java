@@ -1,4 +1,4 @@
-package Books.Competitive_Programming_4.Chapter_1.Section_14.Repetition_only.UVa_Judge.UVa_11547;
+package Books.Competitive_Programming_4.Chapter_1.Section_4.Repetition_only.UVa_Judge.UVa_11547;
 
 import java.io.BufferedReader;
 import java.io.IOException;

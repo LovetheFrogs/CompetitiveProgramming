@@ -1,4 +1,4 @@
-package Books.Competitive_Programming_4.Chapter_1.Section_14.IO_sequences.Kattis.Kattis_planina;
+package Books.Competitive_Programming_4.Chapter_1.Section_4.IO_sequences.Kattis.Kattis_planina;
 
 import java.util.Scanner;
 
