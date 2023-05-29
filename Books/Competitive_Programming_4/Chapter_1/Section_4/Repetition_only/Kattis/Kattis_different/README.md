@@ -4,7 +4,7 @@ Write a program that computes the difference between non-negative integers.
 
 ## Input
 
-Each line of the input consists of a pair of integers. Each integer is between and $10^15$ (inclusive). The input is terminated by end of file.
+Each line of the input consists of a pair of integers. Each integer is between and $10^{15}$ (inclusive). The input is terminated by end of file.
 
 ## Output
 
