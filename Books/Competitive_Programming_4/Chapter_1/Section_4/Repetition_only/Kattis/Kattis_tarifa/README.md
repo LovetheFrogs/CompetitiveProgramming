@@ -8,7 +8,7 @@ months of using the plan, determine how many megabytes Pero will have available 
 
 ## Input
 
-The first line of input contains the integer *X* (1 ≤ *X* ≤ 100). The second line of input contains the integer *N* (1 ≤ *N* ≤ 100). Each of the following *N* lines contains an integer *$P_i$* (1 ≤ *$P_i$* ≤ 10000), the number of megabytes spent in each of the first *N* months of using the plan. Numbers *$P_i$* will be such that Pero will never use more megabytes than he actually has.
+The first line of input contains the integer *X* (1 ≤ *X* ≤ 100). The second line of input contains the integer *N* (1 ≤ *N* ≤ 100). Each of the following *N* lines contains an integer *Pi* (1 ≤ *Pi* ≤ 10000), the number of megabytes spent in each of the first *N* months of using the plan. Numbers *Pi* will be such that Pero will never use more megabytes than he actually has.
 
 ## Output
 
