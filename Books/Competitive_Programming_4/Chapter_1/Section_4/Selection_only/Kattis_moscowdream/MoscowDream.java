@@ -1,4 +1,4 @@
-package Books.Competitive_Programming_4.Chapter_1.Section_4.Selection_only.Kattis.Kattis_moscowdream;
+package Books.Competitive_Programming_4.Chapter_1.Section_4.Selection_only.Kattis_moscowdream;
 
 import java.util.Scanner;
 
