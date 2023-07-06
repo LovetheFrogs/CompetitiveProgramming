@@ -1,4 +1,4 @@
-package Books.Competitive_Programming_3.Chapter_1.Section_133.SuperEasy.UVa_11172;
+package Books.Competitive_Programming_4.Chapter_1.Section_4.Multiple_test_cases.UVa_Judge.UVa_11172;
 
 import java.util.Scanner;
 
