@@ -2,7 +2,7 @@ package Books.Competitive_Programming_4.Chapter_1.Section_4.Multiple_test_cases.
 
 import java.util.Scanner;
 
-public class eligibility {
+public class Eligibility {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
