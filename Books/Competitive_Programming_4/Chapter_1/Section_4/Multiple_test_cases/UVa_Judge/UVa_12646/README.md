@@ -28,7 +28,7 @@ the character must be ‘C’, and if there is no winner the character must be �
 
 *Restrictions*
 
-* $A, B, C ∈ {0, 1}$
+* $A, B, C ∈ ${$0, 1$}$
 
 ## Sample Input
 
